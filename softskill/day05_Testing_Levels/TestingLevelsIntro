@@ -1,0 +1,86 @@
+
+
+Testing Levels
+   - Unit Testing
+   - Integration Testing
+   - System Testing
+   - UAT - User Acceptance Testing
+
+   1.Unit Testing     also called Module testing/Component Testing
+      - testing the small unit / individual module of the app from the code perspective
+
+      Who: Developers, they write code unit by unit
+      Env: The Dev environment
+
+      unit testing is part of white box testing
+
+      once the unit testing is done and everything is fine individually
+
+   2.Integration Testing
+     - it's testting 2 or more modules of the appliaction and see if they work together or not.
+
+     canvas app:
+       - Unit test -> login
+       - Unit test -> file upload
+       - Unit test -> file download
+       - Unit test -> calendar
+
+       integration scenario -> teacher login -> upload java file -> download the file
+
+       who: Developers    in some compamies, SDET can do integration testing
+       Env: the dev environment
+
+       Do you have experience performing integration testing?
+         - no, I do not have experience, in my project, our dev performed the integration testin. But I am willing to learn it.
+         - Some SDETs have this knowledge so because its not required in my project that's why I didn't get the chance to learn it
+         but I am willing to learn in this company, that's why i am in the market to looking for new opportinty,i want to improve myself
+
+         developers deploy their codes from the Dev to the QA env.
+
+   3.System Testing
+     - Test the software as a whole project.
+
+     Who: SDET/QA, Performance testers
+     Env: in the QA/Test environment
+
+     - System testing id divided into: 1. Functional testing
+
+                                          Who:SDET/QA
+                                          env: in the QA/TEST environment
+
+                                       2. Non-Functional testing
+
+                                          Who: Performance testers
+                                          env: in the QA/test env
+
+   4. UAT -> User accaptance testing
+             UAT team is divided into 2 testing: 1. UAT - Alpha testing -> testers
+                                                 2. UAT - Beta testing -> the client, end users
+
+      env: the staging / pre-production env
+
+      The client -> "test" == manually "use"
+
+      UAT team -> testers - QAs
+      ex: login -> upload a file from UI -> if the file is in DB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
